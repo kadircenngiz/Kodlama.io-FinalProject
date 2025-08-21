@@ -8,6 +8,6 @@ namespace Entities.Abstaract
 {
     public interface IEntity
     {
-
+    
     }
 }
